@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MdmReact/static/css/main.7f04173d.css",
+    "main.js": "/MdmReact/static/js/main.cd78b216.js",
+    "static/js/488.a3217d41.chunk.js": "/MdmReact/static/js/488.a3217d41.chunk.js",
+    "static/media/redbar.png": "/MdmReact/static/media/redbar.afabb70164d36f34a854.png",
+    "index.html": "/MdmReact/index.html",
+    "main.7f04173d.css.map": "/MdmReact/static/css/main.7f04173d.css.map",
+    "main.cd78b216.js.map": "/MdmReact/static/js/main.cd78b216.js.map",
+    "488.a3217d41.chunk.js.map": "/MdmReact/static/js/488.a3217d41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f04173d.css",
+    "static/js/main.cd78b216.js"
+  ]
+}
